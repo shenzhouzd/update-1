@@ -24,4 +24,5 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 
 程序下载
 https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
+
 https://git.io/vQjqe
