@@ -1,7 +1,7 @@
 {
   "appname": "SzzdOgate",
-  "version": "3.3.2017090401",
-  "size": "2891093",
-  "sha512": "A1A5809A780AD2DDE3051DD01C6E68850975666C29333985FC5595666AB856D470EDAD610BAE0C59A4A6CB7889070A736CE6354E519CE3F0F3E904C580030039",
-  "updateinfo": "<br><br>更新内容(2017-9-4)：<br>1、左侧滑菜单添加最新“神韵2018预告片”；<br>2、完善突破网络封锁能力；<br>3、修正NTD直播2受Android版本限制，现可以在Android2.3+上播放，请测试反馈；<br>4、修正左侧滑菜单选择记忆问题。"
+  "version": "3.4.2017090801",
+  "size": "2893165",
+  "sha512": "F44DA1C44D34E397F55513D1CFE0A53FFDEAECD488B88CFFDD3FE6150F0B2CCD6E8D255F9FA66C165E471F84AAA874AF6A71D6F932B77420563D2DC8809B0C0D",
+  "updateinfo": "<br><br>更新内容(2017-9-8)：<br>1、完善突破网络封锁能力；<br>2、修正一些小问题。"
 }
