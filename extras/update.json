@@ -1,7 +1,7 @@
 {
   "appname": "SzzdOgate",
-  "version": "3.5.2017091701",
-  "size": "3520764",
-  "sha512": "21C590CDEF2F639A6D9CFB3BD7094FBC66DBDE2C5508887D0F9FAE63C592C07740DA76785556E09A5ECE5388BA7F04B67F219909B9A837B30E1963FB5F91057F",
-  "updateinfo": "<br><br>更新内容(2017-9-17)：<br>1、完善突破网络封锁能力；<br>2、左侧滑菜单添加“真相影音”；<br>3、修正一些问题。"
+  "version": "3.5.2017091801",
+  "size": "3522916",
+  "sha512": "42DDAAFDFC5A659DC1CA25A7C0227C4741D35CEBBA5D623C1396EC9680E5D19722B44FB3AEFD4F62C684B634D90CDBBC83A3A951AF37C0FD33B9030A3E4D4D66",
+  "updateinfo": "<br><br>更新内容(2017-9-18)：<br>1、完善“真相影音”播放，兼容多集播放。在播放界面，如当前节目为多集，会在节目名称右侧有一向下的箭头；<br>2、修正小问题。"
 }
