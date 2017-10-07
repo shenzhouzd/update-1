@@ -23,6 +23,9 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 当App自身不能够突破网络封锁时，可以借助安卓一点通或者无界的VPN代理破网，获取资源更新及App的更新。
 
 程序下载
+安卓app正式稳定版：
 https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
-
 https://git.io/vQjqe
+
+安卓app最新内部测试版：
+https://jmp.sh/C6GaWZN
