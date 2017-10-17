@@ -31,7 +31,7 @@ https://git.io/vQjqe
 
 安卓app最新内部测试版：
 
-https://jmp.sh/C6GaWZN
+https://jmp.sh/wmymFdO
 
 
 ios版开发中。
