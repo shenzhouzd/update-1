@@ -31,7 +31,11 @@ https://git.io/vQjqe
 
 安卓app最新内部测试版：
 
-https://jmp.sh/wmymFdO
+SzzdOgate V3.7
+https://jmp.sh/iAK2ZBn
 
+
+SzzdOgateTV V1.0
+https://jmp.sh/NiPo0db
 
 ios版开发中。
