@@ -25,17 +25,19 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 手机程序下载
 安卓app正式稳定版：
 
+SzzdOgate V3.6 for 安卓2.3+（手机版）
+
 https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
 
 https://git.io/vQjqe
 
 安卓app最新内部测试版：
 
-SzzdOgate V3.7  for 安卓4.0+
+SzzdOgate V3.7  for 安卓4.0+（手机版）
 http://jmp.sh/iAK2ZBn
 
 
-SzzdOgateTV V1.0  for 安卓4.0+
+SzzdOgateTV V1.0  for 安卓4.0+（电视机顶盒版）
 http://jmp.sh/NiPo0db
 
 
