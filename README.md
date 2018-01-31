@@ -31,7 +31,7 @@ https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk
 
 https://git.io/vQjqe
 
-安卓app最新内部测试版：
+安卓app最新内部测试版（20180131更新）：
 
 SzzdOgate V3.7  for 安卓4.1+（手机版）
 http://jmp.sh/iAK2ZBn
